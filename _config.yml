@@ -34,10 +34,11 @@ repository: "OscatStudent/OscatStudent.github.io" # GitHub username/repo-name e.
 
 comments:
   provider: "utterances"
-  theme: "github-light" # "github-dark"
-  issue_term: "pathname"
-  repo: "OscatStudent.github.io"
-  #label: "comment" # Optional - must be existing label.
+  utterances:
+    theme: "github-light" # "github-dark"
+    issue_term: "pathname"
+    repo: "OscatStudent.github.io"
+    #label: "comment" # Optional - must be existing label.
   
 
 include:
