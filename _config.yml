@@ -115,7 +115,6 @@ defaults:
       layout: single
       author_profile: true
     comments: true
-      provider: "utterances"
   
 utterances:
   theme: "github-light" # "github-dark"
