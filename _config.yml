@@ -114,6 +114,14 @@ defaults:
     values:
       layout: single
       author_profile: true
+    comments: true
+      provider: "utterances"
+  
+utterances:
+  theme: "github-light" # "github-dark"
+  issue_term: "pathname"
+  repo: "OscatStudent.github.io"
+  #label: "comment" # Optional - must be existing label.
       
 
 category_archive:
