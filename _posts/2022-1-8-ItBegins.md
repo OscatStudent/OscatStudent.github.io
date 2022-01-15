@@ -1,3 +1,7 @@
+---
+teaser: ![image13](https://user-images.githubusercontent.com/59768763/149602739-02abe6d8-ac4d-4e44-a1c6-64e82c2a5195.jpg)
+header: ![image13](https://user-images.githubusercontent.com/59768763/149602739-02abe6d8-ac4d-4e44-a1c6-64e82c2a5195.jpg)
+---
 # It Begins
 We tuned into the livestream together. Then, we got to work. There were some pre-season projects we still had to finish up.
 
