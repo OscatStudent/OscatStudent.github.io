@@ -1,16 +1,13 @@
-
 ---
 title: "It Begins"
-date: 2020-04-06
+date: 2022-01-14
 categories:
   - blog
 tags:
   - Jekyll
   - update
 header:
-  teaser: "![image13](https://user-images.githubusercontent.com/59768763/149602739-02abe6d8-ac4d-4e44-a1c6-64e82c2a5195.jpg)"
-  overlay_image: "![image13](https://user-images.githubusercontent.com/59768763/149602739-02abe6d8-ac4d-4e44-a1c6-64e82c2a5195.jpg)"
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  teaser: "![image9](https://user-images.githubusercontent.com/59768763/149602299-38e56c50-d703-40c7-8fb2-3ae52688fe58.jpg)"
 ---
 
 
