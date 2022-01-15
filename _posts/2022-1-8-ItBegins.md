@@ -48,7 +48,6 @@ We continued making incredible progress
 ![image8](https://user-images.githubusercontent.com/59768763/149602511-443c0dfe-1be5-43ae-a575-83e07f29b60a.jpg)
 
 - The entire team discusses in detail how the robot should enter carcinization to gain a defensive advantage.
-![image1](https://user-images.githubusercontent.com/59768763/149602547-b17dc428-efa6-4eb1-bad0-8c8f5727a15e.jpg)
 
 - We begin shoreing up our cart: We need to move in and out of our space each night. This cart and the benches give us more mobility.
 ![image18](https://user-images.githubusercontent.com/59768763/149602602-02a13e70-44f8-4d0b-bd6c-0b852967c743.jpg)
