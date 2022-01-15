@@ -1,8 +1,19 @@
+
 ---
-teaser: ![image13](https://user-images.githubusercontent.com/59768763/149602739-02abe6d8-ac4d-4e44-a1c6-64e82c2a5195.jpg)
-header: ![image13](https://user-images.githubusercontent.com/59768763/149602739-02abe6d8-ac4d-4e44-a1c6-64e82c2a5195.jpg)
+title: "It Begins"
+date: 2020-04-06
+categories:
+  - blog
+tags:
+  - Jekyll
+  - update
+header:
+  teaser: "![image13](https://user-images.githubusercontent.com/59768763/149602739-02abe6d8-ac4d-4e44-a1c6-64e82c2a5195.jpg)"
+  overlay_image: "![image13](https://user-images.githubusercontent.com/59768763/149602739-02abe6d8-ac4d-4e44-a1c6-64e82c2a5195.jpg)"
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
-# It Begins
+
+
 We tuned into the livestream together. Then, we got to work. There were some pre-season projects we still had to finish up.
 
 After watching the kickoff, we came to the following conclusions for our objectives/ priorities for the game this season.
