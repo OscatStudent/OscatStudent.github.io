@@ -7,7 +7,7 @@ tags:
   - Jekyll
   - update
 header:
-  teaser: "![image9](https://user-images.githubusercontent.com/59768763/149602299-38e56c50-d703-40c7-8fb2-3ae52688fe58.jpg)"
+  teaser: ![image9](https://user-images.githubusercontent.com/59768763/149602299-38e56c50-d703-40c7-8fb2-3ae52688fe58.jpg)
 ---
 
 
