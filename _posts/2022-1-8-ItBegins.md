@@ -8,6 +8,9 @@ tags:
   - update
 header:
   teaser: "https://user-images.githubusercontent.com/59768763/149602299-38e56c50-d703-40c7-8fb2-3ae52688fe58.jpg"
+  overlay_image: "https://user-images.githubusercontent.com/59768763/149602299-38e56c50-d703-40c7-8fb2-3ae52688fe58.jpg"
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+
 ---
 
 
