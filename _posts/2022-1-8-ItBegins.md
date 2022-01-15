@@ -2,7 +2,7 @@
 title: "It Begins"
 date: 2022-01-14
 categories:
-  - blog
+  - Goals
 tags:
   - Jekyll
   - update
