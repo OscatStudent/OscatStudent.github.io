@@ -1,3 +1,4 @@
+# It Begins
 We tuned into the livestream together. Then, we got to work. There were some pre-season projects we still had to finish up.
 
 After watching the kickoff, we came to the following conclusions for our objectives/ priorities for the game this season.
