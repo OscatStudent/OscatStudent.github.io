@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Oscats 2022 Build Blog
-email:
+email: "frc6762@gmail.com"
 description: "Everyone is welcome; everyone has something to offer"
 github_username: username
 minimal_mistakes_skin: "air"
