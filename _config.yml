@@ -65,7 +65,7 @@ plugins:
 
 author:
   name   : "FRC Team 6762, The Oscats"
-  avatar : "/assets/before.jpg"
+  avatar : "assets/before.jpg"
   bio    : "Everyone is welcome; everyone has something to offer"
   links:
     - label: "Website"
@@ -81,10 +81,10 @@ author:
       #icon: "fab fa-fw fa-instagram"
       #url: "https://instagram.com/"
     - label: "The Blue Alliance"
-      icon: "/assets/images/logo_square_512.png"
+      icon: "../assets/images/logo_square_512.png"
       url: "https://www.thebluealliance.com/team/6762"
     - label: "Chief Delphi Thread"
-      icon: "/assets/images/cdIcon.png"
+      icon: "../assets/images/cdIcon.png"
       url: "https://www.chiefdelphi.com/t/frc-6762-open-alliance-2022-build-thread/398916"
 
 footer:
