@@ -1,4 +1,20 @@
-# A Few Setbacks; And Even More Successes
+---
+title: "A Few Setbacks; Even More Successes"
+date: 2022-01-23
+categories:
+  - Drivetrain
+  - Troubleshooting
+  - Climber
+tags:
+  - Jekyll
+  - update
+header:
+  teaser: "https://user-images.githubusercontent.com/25676667/150696828-3e6e123a-1f61-4406-a50c-c6b0dde25c1f.jpg"
+  overlay_image: "https://user-images.githubusercontent.com/25676667/150696828-3e6e123a-1f61-4406-a50c-c6b0dde25c1f.jpg"
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+
+---
+
 # 1/17/2022
 - We made some more progress on our drivetrain.
 ![image12](https://user-images.githubusercontent.com/25676667/150695309-919a6705-3e6f-4137-b8cb-e59b764be09b.jpg)
