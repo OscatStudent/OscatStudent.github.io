@@ -77,15 +77,15 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - #label: "Instagram"
+     #-  label: "Instagram"
       #icon: "fab fa-fw fa-instagram"
       #url: "https://instagram.com/"
-    #- label: "The Blue Alliance"
+    - label: "The Blue Alliance"
       #icon: "/assets/images/logo_square_512.png"
-    #  url: "https://www.thebluealliance.com/team/6762"
-    #- label: "Chief Delphi Thread"
+      url: "https://www.thebluealliance.com/team/6762"
+    - label: "Chief Delphi Thread"
       #icon: "/assets/images/cdIcon.png"
-    #  url: "https://www.chiefdelphi.com/t/frc-6762-open-alliance-2022-build-thread/398916"
+      url: "https://www.chiefdelphi.com/t/frc-6762-open-alliance-2022-build-thread/398916"
 
 footer:
   links:
@@ -101,12 +101,12 @@ footer:
     - #label: "Instagram"
       #icon: "fab fa-fw fa-instagram"
       #url: "https://instagram.com/"
-    #- label: "The Blue Alliance"
+    - label: "The Blue Alliance"
       #icon: "/assets/images/logo_square_512.png"
-     # url: "https://www.thebluealliance.com/team/6762"
-    #- label: "Chief Delphi Thread"
+      url: "https://www.thebluealliance.com/team/6762"
+    - label: "Chief Delphi Thread"
       #icon: "/assets/images/cdIcon.png"
-     # url: "https://www.chiefdelphi.com/t/frc-6762-open-alliance-2022-build-thread/398916"
+      url: "https://www.chiefdelphi.com/t/frc-6762-open-alliance-2022-build-thread/398916"
 
 
 defaults:
