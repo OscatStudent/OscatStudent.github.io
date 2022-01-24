@@ -65,7 +65,7 @@ plugins:
 
 author:
   name   : "FRC Team 6762, The Oscats"
-  avatar : "/assets/before.png"
+  avatar : "/assets/KLogo.png"
   bio    : "Everyone is welcome; everyone has something to offer"
   links:
     - label: "Website"
