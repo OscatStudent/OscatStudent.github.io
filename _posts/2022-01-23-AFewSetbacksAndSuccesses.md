@@ -43,7 +43,7 @@ So, we began doing just that.
 - This was an incredible opportunity for some members to learn more about Java programming.
 ![20220122_120609](https://user-images.githubusercontent.com/25676667/150696828-3e6e123a-1f61-4406-a50c-c6b0dde25c1f.jpg)
 
-- Created a new avatar to match our logo! <img src= "https://user-images.githubusercontent.com/25676667/150696418-d0f134dc-667b-445a-affa-5c4995fe7c07.png" alt="pixel logo" height= "40" width="40"/>
+- Created a new avatar to match our logo! <img src= "https://user-images.githubusercontent.com/59768763/150880422-e83cd654-4d80-4665-ad07-f8efea026188.png" height= "40" width="40"/>
 
 ![KLogoFinal](https://user-images.githubusercontent.com/25676667/150696575-2fac237f-9242-442a-b729-2d1c8cff3dad.png)
 
