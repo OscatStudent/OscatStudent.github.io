@@ -68,9 +68,9 @@ author:
   avatar : "/assets/before.png"
   bio    : "Everyone is welcome; everyone has something to offer"
   links:
-  #  - label: "Website"
-   #   icon: "fas fa-fw fa-link"
-    #  url: "https://sites.google.com/hdsd.org/oscats/home"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://sites.google.com/hdsd.org/oscats/home"
     - #label: "Twitter"
       #icon: "fab fa-fw fa-twitter-square"
       #url: "https://twitter.com/"
